@@ -6,7 +6,7 @@
   <tbody>
     <tr>
       <td>构造函数</td>
-      <td>说明</td>
+      <td>说明 </td>
     </tr>
     <tr>
     <td>PanoramaOverview(opts?:<em>[PanoramaOverviewOptions](#PanoramaOverviewOptions)</em></td>
